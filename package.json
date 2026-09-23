@@ -1,0 +1,12 @@
+{
+  "name": "bst",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bst.js",
+  "scripts": {
+    "test": "node driver.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
