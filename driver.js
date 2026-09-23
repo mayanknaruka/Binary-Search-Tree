@@ -122,7 +122,6 @@ tree.rebalance();
 
 prettyPrint(tree.root);
 
-
 // ----------------------------------------
 // 7. Confirm tree is balanced
 // ----------------------------------------
